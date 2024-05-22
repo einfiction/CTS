@@ -6,6 +6,9 @@ The Combined Theoretical Signal (CTS) model proposes a novel framework for unify
 ## Authors
 - Hazar Umutay OZTURKLER (aka Eindorff)
 
+## Affiliation:
+- Eindorff & Synthoris Research Lab
+  
 ## Contact
 For any inquiries, please contact:
 - Email: hazarumutay@gmail.com
